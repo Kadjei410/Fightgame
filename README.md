@@ -26,6 +26,6 @@
     6. Attack 2: num pad 2
 # Demo:
 
-  htps://user-images.githubusercontent.com/72326485/207245026-c9dc31a3-b648-4923-8b0e-6655e3c2e1b1.mp4
+  https://user-images.githubusercontent.com/72326485/207245026-c9dc31a3-b648-4923-8b0e-6655e3c2e1b1.mp4
 
 
